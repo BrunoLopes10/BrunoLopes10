@@ -1,4 +1,4 @@
-### Oi, eu sou o Bruno !
+### Oi, eu sou o Bruno e esse é o meu Github !
 
 ##
 
