@@ -4,7 +4,7 @@
 
 - 🎓 I'm graduating Systems analysis and development at Unisales.
 - 💼 I'm working as a QA (Quality Assurance) at VixPar.
-- 🌱 Learnig Postman and cypress.
+- 🌱 Learnig Flutter/Dart.
 
 ## Here are some programming languages and technologies that I'm familiar with:
 
