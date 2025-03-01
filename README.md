@@ -1,6 +1,6 @@
-## Hi, I'm Bruno Lopes!
+## Hi 👋🏽, I'm Bruno Lopes!
 
-## About me
+## About me🙋🏽‍♂️:
 
 - 🎓 I'm graduating Systems analysis and development at Unisales.
 - 💼 I'm working as a QA (Quality Assurance) at VixPar.
