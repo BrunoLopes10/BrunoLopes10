@@ -6,15 +6,13 @@
 - 💼 I'm working as a QA (Quality Assurance) at VixPar.
 - 🌱 Learnig Postman and cypress.
 
-## 🚀 Skills
-
-Here are some programming languages and technologies that I'm familiar with:
+## Here are some programming languages and technologies that I'm familiar with:
 
 ## 👨‍💻 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,dart)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=fllutter,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,azure,docker,unity,arduino,postman,cypress)](https://skillicons.dev)<br><br>
@@ -27,5 +25,5 @@ Here are some programming languages and technologies that I'm familiar with:
 <a href="https://linkedin.com/in/brunoelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunoelp" height="30" width="40" /></a>
 <a href="https://instagram.com/brunoelp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunoelp_" height="30" width="40" /></a>
 </p>
-##
+
 
