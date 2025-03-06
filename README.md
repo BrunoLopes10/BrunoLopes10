@@ -6,8 +6,7 @@
 - 💼 I'm working as a QA (Quality Assurance) at VixPar.
 - 🌱 Learnig Flutter/Dart.
 
-## Here are some programming languages and technologies that I'm familiar with:
-
+Here are some programming languages and technologies that I'm familiar with:
 ## 👨‍💻 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,dart)](https://skillicons.dev)
 
