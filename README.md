@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap,nodejs,electron)](https://skillicons.dev)
 
 ## ⚙️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,azure,docker,arduino,unity,postman,cypress,powershell,ubuntu,windows,stackoverflow,figma,discord)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,azure,docker,arduino,unity,postman,cypress,powershell,npm,ubuntu,windows,stackoverflow,figma,discord)](https://skillicons.dev)<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolopes10&show_icons=true&theme=tokyonight&locale=pt-br)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes10&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/brunolopes10/github-readme-stats)
