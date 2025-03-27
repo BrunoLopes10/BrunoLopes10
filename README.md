@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,dart,py)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap,nodejs,electron)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,azure,docker,arduino,unity,postman,cypress,powershell,ubuntu,windows,stackoverflow,figma,discord)](https://skillicons.dev)<br><br>
