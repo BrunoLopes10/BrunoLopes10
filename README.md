@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,bootstrap)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,azure,docker,postman,cypress,powershell,nodejs,mongodb,npm,windows,figma,discord)](https://skillicons.dev)<br><br>
